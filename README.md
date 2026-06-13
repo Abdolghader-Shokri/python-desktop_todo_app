@@ -58,8 +58,8 @@ desktop_todo_app/
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/desktop-todo-app.git
-cd desktop-todo-app
+git clone https://github.com/Abdolghader-Shokri/python-desktop_todo_app.git
+cd python-desktop_todo_app
 ```
 
 Create and activate a virtual environment (optional but recommended):
